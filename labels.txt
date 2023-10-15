@@ -1,0 +1,3 @@
+0 tesoura
+1 pedra
+2 papel
